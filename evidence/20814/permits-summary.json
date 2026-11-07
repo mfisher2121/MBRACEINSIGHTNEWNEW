@@ -1,0 +1,87 @@
+{
+  "publisher": "Montgomery County Department of Permitting Services",
+  "dataset_id": "ih88-a6aa",
+  "retrieved_at_utc": "2026-11-07T12:12:52.510939+00:00",
+  "source_rows_updated_at_utc": "2026-10-30T07:16:43+00:00",
+  "period_basis": "issue date, inclusive start / exclusive end",
+  "period_start": "2026-10-01T00:00:00",
+  "period_end_exclusive": "2026-11-01T00:00:00",
+  "record_count": 559,
+  "first_issue_date": "2026-10-01T02:10:01.000",
+  "last_issue_date": "2026-10-28T12:10:05.000",
+  "counts": {
+    "zip": {
+      "20817": 48,
+      "20854": 43,
+      "20895": 38,
+      "20910": 32,
+      "20874": 31,
+      "20906": 24,
+      "20814": 23,
+      "20853": 23,
+      "20902": 22,
+      "20815": 22,
+      "20852": 21,
+      "20878": 20,
+      "20816": 19,
+      "20871": 18,
+      "20904": 17,
+      "20841": 16,
+      "20850": 14,
+      "20832": 14,
+      "20886": 13,
+      "20912": 12,
+      "20901": 11,
+      "20879": 10,
+      "20905": 10,
+      "20876": 9,
+      "20882": 8,
+      "20855": 7,
+      "20833": 6,
+      "20837": 6,
+      "20877": 3,
+      "20866": 3,
+      "20903": 3,
+      "20818": 3,
+      "20868": 2,
+      "20861": 2,
+      "20896": 1,
+      "20842": 1,
+      "MISSING": 1,
+      "20872": 1,
+      "20839": 1,
+      "20862": 1
+    },
+    "worktype": {
+      "REPLACE": 398,
+      "INSTALL": 161
+    },
+    "usecode": {
+      "SINGLE FAMILY DWELLING": 431,
+      "BUSINESS BUILDING": 85,
+      "TOWNHOUSE": 37,
+      "RESIDENTIAL ACCESSORY STRUCTURE": 4,
+      "DUPLEX": 2
+    },
+    "status": {
+      "Issued": 497,
+      "Finaled": 62
+    },
+    "applicationtype": {
+      "MECHANICAL PERMIT": 559
+    }
+  },
+  "source_urls": {
+    "metadata": "https://data.montgomerycountymd.gov/api/views/ih88-a6aa.json",
+    "records": "https://data.montgomerycountymd.gov/resource/ih88-a6aa.json?%24select=permitno%2Cstatus%2Czip%2Cworktype%2Cusecode%2Caddeddate%2Cissueddate%2Cfinaleddate%2Capplicationtype&%24where=issueddate+%3E%3D+%272026-10-01T00%3A00%3A00%27+AND+issueddate+%3C+%272026-11-01T00%3A00%3A00%27&%24order=permitno&%24limit=50000",
+    "count": "https://data.montgomerycountymd.gov/resource/ih88-a6aa.json?%24select=count%28%2A%29+as+record_count&%24where=issueddate+%3E%3D+%272026-10-01T00%3A00%3A00%27+AND+issueddate+%3C+%272026-11-01T00%3A00%3A00%27"
+  },
+  "sha256": {
+    "metadata-before.json": "ce63c2ad729aa59902493e15b098ed282cb26667278d79365ce6af13797055a0",
+    "records.json": "8df73b4f8d3dac823c3902f4ab74710b2979d8b00bd362e615763d71caeee3f5",
+    "source-count.json": "3e3b75ee4d3c69c048e879cddb65e35227bc314348a3f118fd63960791471b8a",
+    "metadata-after.json": "ce63c2ad729aa59902493e15b098ed282cb26667278d79365ce6af13797055a0"
+  },
+  "coverage": "County-published records only; city permit systems not merged.",
+  "interpretation": "Recorded permit activity; no inference of open demand, leads, or completed jobs."
+}

@@ -1,0 +1,12 @@
+{
+  "source_count_matches_download": true,
+  "dataset_update_timestamp_unchanged_during_download": true,
+  "unique_nonempty_permit_numbers": true,
+  "all_issue_dates_in_window": true,
+  "all_grouped_totals_reconcile": true,
+  "missing_zip_records": 1,
+  "invalid_zip_records": 0,
+  "municipal_datasets_included": false,
+  "contractor_capacity_confirmed": false,
+  "customer_journey_researched": false
+}

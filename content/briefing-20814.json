@@ -1,0 +1,231 @@
+{
+  "zip": "20814",
+  "retrieved_utc": "2026-11-07T12:12:44.828309+00:00",
+  "reporting_year_label": "2026",
+  "county": {
+    "inventory": 1920,
+    "energy": 1895
+  },
+  "inventory_in_zip": 141,
+  "energy_in_zip": 138,
+  "matched": 138,
+  "unmatched": [
+    {
+      "mbid": "00420021_A",
+      "name": "cecil (ce150)",
+      "use": "multifamily housing"
+    },
+    {
+      "mbid": "00486112_A",
+      "name": "hampden house(ha196)",
+      "use": "multifamily housing"
+    },
+    {
+      "mbid": "03853278",
+      "name": "(no name in inventory)",
+      "use": "(no use type in inventory)"
+    }
+  ],
+  "interim": {
+    "yes": 70,
+    "no": 66,
+    "undisclosed": 2
+  },
+  "final": {
+    "yes": 57,
+    "no": 79,
+    "undisclosed": 2
+  },
+  "report_status": {
+    "in compliance": 130,
+    "not submitted": 5,
+    "pending revisions": 3
+  },
+  "interim_no_and_report_in_compliance": 63,
+  "eui_blank": 8,
+  "eui_undisclosed": 2,
+  "by_use": [
+    {
+      "use": "multifamily housing",
+      "records": 52,
+      "yes": 17,
+      "no": 33,
+      "undisclosed": 2
+    },
+    {
+      "use": "office",
+      "records": 50,
+      "yes": 40,
+      "no": 10,
+      "undisclosed": 0
+    },
+    {
+      "use": "hotel",
+      "records": 6,
+      "yes": 0,
+      "no": 6,
+      "undisclosed": 0
+    },
+    {
+      "use": "k-12 school",
+      "records": 4,
+      "yes": 1,
+      "no": 3,
+      "undisclosed": 0
+    },
+    {
+      "use": "senior living community",
+      "records": 4,
+      "yes": 2,
+      "no": 2,
+      "undisclosed": 0
+    },
+    {
+      "use": "community center and social meeting hall",
+      "records": 3,
+      "yes": 2,
+      "no": 1,
+      "undisclosed": 0
+    },
+    {
+      "use": "vehicle dealership",
+      "records": 3,
+      "yes": 2,
+      "no": 1,
+      "undisclosed": 0
+    },
+    {
+      "use": "fitness center/health club/gym",
+      "records": 2,
+      "yes": 1,
+      "no": 1,
+      "undisclosed": 0
+    },
+    {
+      "use": "residential care facility",
+      "records": 2,
+      "yes": 1,
+      "no": 1,
+      "undisclosed": 0
+    },
+    {
+      "use": "worship facility",
+      "records": 2,
+      "yes": 0,
+      "no": 2,
+      "undisclosed": 0
+    },
+    {
+      "use": "fire station",
+      "records": 1,
+      "yes": 0,
+      "no": 1,
+      "undisclosed": 0
+    },
+    {
+      "use": "hospital (general medical & surgical)",
+      "records": 1,
+      "yes": 1,
+      "no": 0,
+      "undisclosed": 0
+    },
+    {
+      "use": "medical office",
+      "records": 1,
+      "yes": 0,
+      "no": 1,
+      "undisclosed": 0
+    },
+    {
+      "use": "mixed use property",
+      "records": 1,
+      "yes": 1,
+      "no": 0,
+      "undisclosed": 0
+    },
+    {
+      "use": "other - mall",
+      "records": 1,
+      "yes": 1,
+      "no": 0,
+      "undisclosed": 0
+    },
+    {
+      "use": "parking",
+      "records": 1,
+      "yes": 0,
+      "no": 1,
+      "undisclosed": 0
+    },
+    {
+      "use": "performing arts",
+      "records": 1,
+      "yes": 0,
+      "no": 1,
+      "undisclosed": 0
+    },
+    {
+      "use": "police station",
+      "records": 1,
+      "yes": 0,
+      "no": 1,
+      "undisclosed": 0
+    },
+    {
+      "use": "retail store",
+      "records": 1,
+      "yes": 1,
+      "no": 0,
+      "undisclosed": 0
+    },
+    {
+      "use": "supermarket/grocery store",
+      "records": 1,
+      "yes": 0,
+      "no": 1,
+      "undisclosed": 0
+    }
+  ],
+  "review_queue_items": 31,
+  "sources": {
+    "inventory": {
+      "url": "https://target-finder.mcbeps.org/building-inventory",
+      "sha256": "bce31572e8682b42e9baf36e9a3cd6a6ca65dfdb4bd9dac483cabe3abd737812",
+      "file_time_utc": "2026-11-07T12:11:43.031080+00:00"
+    },
+    "energy": {
+      "url": "https://mcbeps.org/",
+      "sha256": "7eefe5583b48545bd44716f4c744f5fd04a9a968bb64b2b5815e6381628e3456",
+      "file_time_utc": "2026-11-07T12:12:32.111618+00:00"
+    },
+    "permits": {
+      "url": "https://data.montgomerycountymd.gov/d/ih88-a6aa",
+      "retrieved_utc": "2026-11-07T12:12:52.510939+00:00",
+      "rows_updated_utc": "2026-10-30T07:16:43+00:00"
+    }
+  },
+  "permits": {
+    "period_start": "2026-10-01",
+    "period_end_exclusive": "2026-11-01",
+    "county": 559,
+    "zip": 23,
+    "worktype": {
+      "INSTALL": 5,
+      "REPLACE": 18
+    },
+    "usecode": {
+      "SINGLE FAMILY DWELLING": 14,
+      "TOWNHOUSE": 2,
+      "BUSINESS BUILDING": 7
+    },
+    "last_issue_date": "2026-10-28",
+    "source_count_matches_download": true,
+    "municipal_datasets_included": false
+  },
+  "evidence_sha256": {
+    "beps-records-20814.csv": "771fea248a0d9c0fcd19e86b47b8c1c970e57c6433e3a1bae26963fff3fdac39",
+    "beps-manifest.json": "4d4d71dc8b092ee851c33ef7c0cb7d78e33e12ca36a306204598732eddc3f61d",
+    "permits-summary.json": "377e045931b96de9a3be32823ac18c655f15109345f0abd4741197d521f1c542",
+    "permits-records-20814.csv": "289862b10121ff680fc156f7b4fcf3e5e9f8e1572ae21ebd58da4d984719e706"
+  }
+}

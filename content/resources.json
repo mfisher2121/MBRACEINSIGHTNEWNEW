@@ -1,5 +1,16 @@
 [
   {
+    "id": "moco-20814-beps-data-sheet",
+    "title": "The 20814 BEPS Data Sheet",
+    "category": "BEPS records",
+    "description": "All 141 inventory records and their energy map values, with the method, source hashes, and the gaps left visible.",
+    "format": "Editable Markdown table",
+    "tag": "THE DATA",
+    "cover": "EVERY<br>20814 RECORD.",
+    "featured": true,
+    "note": "Field values are copied from the county's November 7, 2026 exports. This is not a compliance determination or a lead list."
+  },
+  {
     "id": "dmv-rebate-roadmap",
     "title": "The DMV Rebate Roadmap",
     "category": "Rebates & incentives",
@@ -7,7 +18,9 @@
     "format": "Editable Markdown guide",
     "tag": "START HERE",
     "cover": "FOLLOW THE<br>RIGHT ROUTE.",
-    "featured": true
+    "featured": false,
+    "archival": true,
+    "note": "This resident guide is retained from the earlier DMV edition. MBRACE INSIGHT now serves HVAC owners; homeowner questions belong to DMV Heat Pumps."
   },
   {
     "id": "heat-pump-quote-companion",
@@ -17,7 +30,9 @@
     "format": "Editable comparison sheet",
     "tag": "BEFORE YOU SIGN",
     "cover": "BETTER<br>QUESTIONS.",
-    "featured": true
+    "featured": false,
+    "archival": true,
+    "note": "This resident guide is retained from the earlier DMV edition. MBRACE INSIGHT now serves HVAC owners; homeowner questions belong to DMV Heat Pumps."
   },
   {
     "id": "beps-resident-question-sheet",
@@ -27,7 +42,9 @@
     "format": "Editable question sheet",
     "tag": "KNOW YOUR BUILDING",
     "cover": "BUILDING<br>CONTEXT.",
-    "featured": true
+    "featured": false,
+    "archival": true,
+    "note": "This resident guide is retained from the earlier DMV edition. MBRACE INSIGHT now serves HVAC owners; homeowner questions belong to DMV Heat Pumps."
   },
   {
     "id": "home-electrification-planner",
@@ -37,7 +54,9 @@
     "format": "Editable planning sheet",
     "tag": "MAKE A PLAN",
     "cover": "YOUR HOME.<br>YOUR PLAN.",
-    "featured": true
+    "featured": false,
+    "archival": true,
+    "note": "This resident guide is retained from the earlier DMV edition. MBRACE INSIGHT now serves HVAC owners; homeowner questions belong to DMV Heat Pumps."
   },
   {
     "id": "six-gate-checklist",
@@ -53,11 +72,13 @@
     "id": "evidence-worksheet",
     "title": "The Evidence & Citation Worksheet",
     "category": "Evidence",
-    "description": "Keep the claim, source, checked date, and missing evidence together before issuing a verdict.",
+    "description": "Keep the claim, source, checked date, and missing evidence together before you act on a finding.",
     "format": "Editable worksheet",
     "tag": "BUILD YOUR RECORD",
-    "featured": false,
-    "archival": true
+    "featured": true,
+    "archival": false,
+    "note": "Use this editable worksheet to organize your own evidence. It does not certify a market, a claim, or a result.",
+    "cover": "CLAIM.<br>SOURCE. DATE."
   },
   {
     "id": "launch-clearance-checklist",
@@ -73,10 +94,12 @@
     "id": "four-zip-worksheet",
     "title": "The Four-ZIP Market Worksheet",
     "category": "For HVAC operators",
-    "description": "A focused territory and customer-journey worksheet for HVAC owners investigating their next move.",
+    "description": "Pick four ZIP codes you can serve reliably, find one customer question, and track one local experiment.",
     "format": "Editable worksheet",
-    "tag": "HVAC RESOURCE",
-    "featured": false,
-    "archival": true
+    "tag": "YOUR TERRITORY",
+    "featured": true,
+    "archival": false,
+    "note": "Use this editable worksheet to organize your own evidence. It does not certify a market, a claim, or a result.",
+    "cover": "FOUR<br>ZIP CODES."
   }
 ]

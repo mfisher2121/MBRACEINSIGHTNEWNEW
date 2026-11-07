@@ -1,0 +1,225 @@
+[
+  {
+    "source": "inventory",
+    "mbid": "00046844_A",
+    "issue": "invalid_or_missing_postal_code",
+    "source_value": "201817",
+    "scope": "unknown; not assigned from address"
+  },
+  {
+    "source": "inventory",
+    "mbid": "00983595",
+    "issue": "invalid_or_missing_postal_code",
+    "source_value": "209006",
+    "scope": "unknown; not assigned from address"
+  },
+  {
+    "source": "energy",
+    "mbid": "00046844_A",
+    "issue": "invalid_or_missing_postal_code",
+    "source_value": "201817",
+    "scope": "unknown; not assigned from address"
+  },
+  {
+    "source": "energy",
+    "mbid": "00983595",
+    "issue": "invalid_or_missing_postal_code",
+    "source_value": "209006",
+    "scope": "unknown; not assigned from address"
+  },
+  {
+    "source": "join",
+    "mbid": "00420021_A",
+    "issue": "record_missing_from_energy",
+    "scope": "20814"
+  },
+  {
+    "source": "energy",
+    "mbid": "00429715",
+    "issue": "missing_measurement",
+    "field": "Weather Normalized Site EUI (kBtu/ft2)",
+    "scope": "20814"
+  },
+  {
+    "source": "energy",
+    "mbid": "00429715",
+    "issue": "missing_measurement",
+    "field": "Normalized Net Site EUI (kBtu/ft2)",
+    "scope": "20814"
+  },
+  {
+    "source": "energy",
+    "mbid": "00431855",
+    "issue": "missing_measurement",
+    "field": "Weather Normalized Site EUI (kBtu/ft2)",
+    "scope": "20814"
+  },
+  {
+    "source": "energy",
+    "mbid": "00431855",
+    "issue": "missing_measurement",
+    "field": "Normalized Net Site EUI (kBtu/ft2)",
+    "scope": "20814"
+  },
+  {
+    "source": "energy",
+    "mbid": "00432507",
+    "issue": "invalid_measurement",
+    "field": "Reported GFA",
+    "source_value": "Undisclosed",
+    "scope": "20814"
+  },
+  {
+    "source": "energy",
+    "mbid": "00432507",
+    "issue": "invalid_measurement",
+    "field": "Weather Normalized Site EUI (kBtu/ft2)",
+    "source_value": "Undisclosed",
+    "scope": "20814"
+  },
+  {
+    "source": "energy",
+    "mbid": "00432507",
+    "issue": "invalid_measurement",
+    "field": "Normalized Net Site EUI (kBtu/ft2)",
+    "source_value": "Undisclosed",
+    "scope": "20814"
+  },
+  {
+    "source": "energy",
+    "mbid": "00432507",
+    "issue": "invalid_measurement",
+    "field": "Projected Interim Performance Standard (kBtu/ft2)",
+    "source_value": "Undisclosed",
+    "scope": "20814"
+  },
+  {
+    "source": "energy",
+    "mbid": "00432507",
+    "issue": "invalid_measurement",
+    "field": "Projected Final Performance Standard (kBtu/ft2)",
+    "source_value": "Undisclosed",
+    "scope": "20814"
+  },
+  {
+    "source": "join",
+    "mbid": "00486112_A",
+    "issue": "record_missing_from_energy",
+    "scope": "20814"
+  },
+  {
+    "source": "energy",
+    "mbid": "00550732",
+    "issue": "missing_measurement",
+    "field": "Normalized Net Site EUI (kBtu/ft2)",
+    "scope": "20814"
+  },
+  {
+    "source": "energy",
+    "mbid": "01790283",
+    "issue": "invalid_measurement",
+    "field": "Reported GFA",
+    "source_value": "Undisclosed",
+    "scope": "20814"
+  },
+  {
+    "source": "energy",
+    "mbid": "01790283",
+    "issue": "invalid_measurement",
+    "field": "Weather Normalized Site EUI (kBtu/ft2)",
+    "source_value": "Undisclosed",
+    "scope": "20814"
+  },
+  {
+    "source": "energy",
+    "mbid": "01790283",
+    "issue": "invalid_measurement",
+    "field": "Normalized Net Site EUI (kBtu/ft2)",
+    "source_value": "Undisclosed",
+    "scope": "20814"
+  },
+  {
+    "source": "energy",
+    "mbid": "01790283",
+    "issue": "invalid_measurement",
+    "field": "Projected Interim Performance Standard (kBtu/ft2)",
+    "source_value": "Undisclosed",
+    "scope": "20814"
+  },
+  {
+    "source": "energy",
+    "mbid": "01790283",
+    "issue": "invalid_measurement",
+    "field": "Projected Final Performance Standard (kBtu/ft2)",
+    "source_value": "Undisclosed",
+    "scope": "20814"
+  },
+  {
+    "source": "energy",
+    "mbid": "02242615",
+    "issue": "missing_measurement",
+    "field": "Weather Normalized Site EUI (kBtu/ft2)",
+    "scope": "20814"
+  },
+  {
+    "source": "energy",
+    "mbid": "02242615",
+    "issue": "missing_measurement",
+    "field": "Normalized Net Site EUI (kBtu/ft2)",
+    "scope": "20814"
+  },
+  {
+    "source": "energy",
+    "mbid": "02595161",
+    "issue": "missing_measurement",
+    "field": "Weather Normalized Site EUI (kBtu/ft2)",
+    "scope": "20814"
+  },
+  {
+    "source": "energy",
+    "mbid": "02595161",
+    "issue": "missing_measurement",
+    "field": "Normalized Net Site EUI (kBtu/ft2)",
+    "scope": "20814"
+  },
+  {
+    "source": "join",
+    "mbid": "03853278",
+    "issue": "record_missing_from_energy",
+    "scope": "20814"
+  },
+  {
+    "source": "inventory",
+    "mbid": "03853278",
+    "issue": "missing_use_type",
+    "scope": "20814"
+  },
+  {
+    "source": "energy",
+    "mbid": "C000745",
+    "issue": "missing_measurement",
+    "field": "Normalized Net Site EUI (kBtu/ft2)",
+    "scope": "20814"
+  },
+  {
+    "source": "energy",
+    "mbid": "C000943_A",
+    "issue": "missing_measurement",
+    "field": "Normalized Net Site EUI (kBtu/ft2)",
+    "scope": "20814"
+  },
+  {
+    "source": "energy",
+    "mbid": "C000943_B",
+    "issue": "missing_measurement",
+    "field": "Weather Normalized Site EUI (kBtu/ft2)",
+    "scope": "20814"
+  },
+  {
+    "source": "energy",
+    "mbid": "C000943_B",
+    "issue": "missing_measurement",
+    "field": "Normalized Net Site EUI (kBtu/ft2)",
+    "scope": "20814"
+  }
+]

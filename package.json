@@ -3,10 +3,10 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "node scripts/prepare-content.mjs && node scripts/build-worker.mjs",
+    "build": "node scripts/briefing-20814.mjs && node scripts/prepare-content.mjs && node scripts/build-worker.mjs",
     "dev": "node scripts/dev-worker.mjs",
     "db:generate": "drizzle-kit generate",
-    "test": "node scripts/test-capture.mjs"
+    "test": "node scripts/test-capture.mjs && node scripts/test-briefing.mjs"
   },
   "devDependencies": {
     "drizzle-kit": "0.31.11",
